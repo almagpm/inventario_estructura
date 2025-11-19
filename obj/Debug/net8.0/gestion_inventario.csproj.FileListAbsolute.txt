@@ -1,0 +1,14 @@
+/home/ibt/gestion_inventario/bin/Debug/net8.0/gestion_inventario
+/home/ibt/gestion_inventario/bin/Debug/net8.0/gestion_inventario.deps.json
+/home/ibt/gestion_inventario/bin/Debug/net8.0/gestion_inventario.runtimeconfig.json
+/home/ibt/gestion_inventario/bin/Debug/net8.0/gestion_inventario.dll
+/home/ibt/gestion_inventario/bin/Debug/net8.0/gestion_inventario.pdb
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.GeneratedMSBuildEditorConfig.editorconfig
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.AssemblyInfoInputs.cache
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.AssemblyInfo.cs
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.csproj.CoreCompileInputs.cache
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.dll
+/home/ibt/gestion_inventario/obj/Debug/net8.0/refint/gestion_inventario.dll
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.pdb
+/home/ibt/gestion_inventario/obj/Debug/net8.0/gestion_inventario.genruntimeconfig.cache
+/home/ibt/gestion_inventario/obj/Debug/net8.0/ref/gestion_inventario.dll

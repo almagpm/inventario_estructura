@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gestion_inventario/1.0.0": {
+        "runtime": {
+          "gestion_inventario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestion_inventario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
